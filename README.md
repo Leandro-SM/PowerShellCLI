@@ -30,3 +30,9 @@ Ferramenta PowerShell modular para:
 - PowerShell 5.1+
 - NMAP e Módulos RSAT (para funções de AD) 
 - Permissões administrativas para Ping e edição de arquivos
+
+-------------------------------------
+
+
+<img src="CLIPowershell.jpg" alt="readme">
+
